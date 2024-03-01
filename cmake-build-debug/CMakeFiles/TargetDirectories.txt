@@ -1,0 +1,3 @@
+/Users/ivanmovile/CLionProjects/myLongDouble/cmake-build-debug/CMakeFiles/my_long_double.dir
+/Users/ivanmovile/CLionProjects/myLongDouble/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivanmovile/CLionProjects/myLongDouble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
